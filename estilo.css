@@ -1,0 +1,39 @@
+h1 {
+			color: #2596be;
+			font-size: 26px;
+			font-family: sans-serif;
+			border-bottom: 4px solid #2596be;
+			background-color: #abdbe3;
+			}
+			h2 {
+			color: #2596be;
+			font-family: sans-serif;
+			border-bottom: 2px dashed #2596be;
+			}
+			img {
+			width: 300px;
+			}
+			strong {
+			border-bottom: 1px dashed #2596be;
+			text-decoration: underline red;
+			}
+			a {
+			text-decoration: underline blue;
+			}
+			a:visited {
+			color: green;
+			}
+			a:hover {
+			background-color: yellow;
+			}
+			h1 {
+			margin: 128px 32px 128px 32px;
+			text-align: center;
+			padding: 32px 32px 32px 32px;
+			}
+			p {
+			text-align: justify;
+			}
+			ul {
+			list-style: none;
+			}
